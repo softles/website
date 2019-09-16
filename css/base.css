@@ -117,7 +117,7 @@ a { text-decoration: none; color:#4e4e4e; cursor: pointer !important; outline: 0
 a:hover, a:focus{ text-decoration: none;}
 a:focus {outline: none; }
 img { max-width:100%; height:auto; -webkit-backface-visibility: hidden; }
-p {margin:0 0 22px 0 ;font-size: 20px;font-weight: bold;}
+p {font-size: 20px;font-weight: bold;}
 video { background-size: cover; display: table-cell; vertical-align: middle; width: 100%; }
 ul, ol{ margin: 0px; }
 input, button, button:focus {outline: 0;}

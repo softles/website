@@ -7,8 +7,10 @@
                         </div>
                         <!-- end logo -->
                         <!-- caption -->
-                        <div class="col-md-6 col-sm-12 col-xs-12 text-center sm-margin-five-bottom">
-                            <div class="tz-text text-white text-medium sm-margin-two-bottom"><p>Web Design, Web Development, Graphic Design & Digital Marketing news from Softles. As well as these existing tools, we're in the unique position.</p></div>
+                        <div class="col-md-6 col-sm-12 col-xs-12 text-center">
+                            <div class="tz-text text-white text-medium sm-margin-two-bottom"><p>+919540494104</p></div>
+                            <div class="tz-text text-white text-medium sm-margin-two-bottom"><p>info@softles.com</p></div>
+                            <div class="tz-text text-white text-medium sm-margin-two-bottom"><p>1303,Sector 23A,Gurugram</p></div>
                         </div>
                         <!-- end caption -->
                         <!-- social elements -->

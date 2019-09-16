@@ -14,8 +14,8 @@
                     <div class="row">
                         <!-- section title -->
                         <div class="col-md-12 col-sm-12 col-xs-12 text-center">
-                            <h2 class="section-title-large sm-section-title-medium xs-section-title-large text-dark-gray font-weight-600 alt-font margin-three-bottom xs-margin-fifteen-bottom tz-text" id="tz-slider-text244">PORTFOLIO WITH TITLE</h2>
-                            <div class="text-medium width-60 margin-lr-auto md-width-70 sm-width-100 tz-text margin-thirteen-bottom xs-margin-nineteen-bottom" id="tz-slider-text245">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</div>
+                            <h2 class="section-title-large sm-section-title-medium xs-section-title-large text-dark-gray font-weight-600 alt-font margin-three-bottom xs-margin-fifteen-bottom tz-text" id="tz-slider-text244">OUR PORTFOLIO</h2>
+                            <div class="text-medium width-60 margin-lr-auto md-width-70 sm-width-100 tz-text margin-thirteen-bottom xs-margin-nineteen-bottom" id="tz-slider-text245">SOFTLES has produced over 30+ successful projects over two decades in the industry. Here are just a few examples of our recent work.</div>
                         </div>
                         <!-- end section title -->
                     </div>
@@ -31,11 +31,11 @@
                                             <li class="xs-no-padding">
                                                 <figure>
                                                     <div class="gallery-img lightbox-gallery">
-                                                        <a href="images/agency-work-10.jpg" title=""><img src="images/agency-work-10.jpg" id="tz-bg-110" data-img-size="(W)800px X (H)650px" alt=""></a>
+                                                        <a href="images/port/hotel_puri.png" title=""><img src="images/port/hotel_puri.png" id="tz-bg-110" data-img-size="(W)800px X (H)650px" alt=""></a>
                                                     </div>
                                                     <figcaption>
-                                                        <h3 class="text-medium alt-font"><a href="#" class="text-dark-gray tz-text" id="tz-slider-text246">HERBAL BEAUTY SALON</a></h3>
-                                                        <div class="text-small2 letter-spacing-1 tz-text" id="tz-slider-text247"> <p class="no-margin-bottom"> LOGO &amp; BRANDING </p> </div>
+                                                        <h3 class="text-medium alt-font"><a href="#" class="text-dark-gray tz-text" id="tz-slider-text246">HOTEL SWMMING OURI</a></h3>
+                                                        <div class="text-small2 letter-spacing-1 tz-text" id="tz-slider-text247"> <p class="no-margin-bottom"> LOGO &amp; WEB DESIGN</p> </div>
                                                     </figcaption>
                                                 </figure>                                  
                                             </li>
@@ -44,11 +44,11 @@
                                             <li class="xs-no-padding">
                                                 <figure>
                                                     <div class="gallery-img lightbox-gallery">
-                                                        <a href="images/agency-work-02.jpg" title=""><img src="images/services_ui.svg" id="tz-bg-111" data-img-size="(W)800px X (H)650px" alt=""></a>
+                                                        <a href="images/port/lao_homepage.png" title=""><img src="images/port/lao_homepage.png" id="tz-bg-111" data-img-size="(W)800px X (H)650px" alt=""></a>
                                                     </div>
                                                     <figcaption>
-                                                        <h3 class="text-medium alt-font"><a href="#" class="text-dark-gray tz-text" id="tz-slider-text248">TAILORING INTERIOR</a></h3>
-                                                        <div class="text-small2 letter-spacing-1 tz-text" id="tz-slider-text249"> <p class="no-margin-bottom"> WEB &amp; BRANDING </p> </div>
+                                                        <h3 class="text-medium alt-font"><a href="#" class="text-dark-gray tz-text" id="tz-slider-text248">LIFE AN OPPORTUNITY</a></h3>
+                                                        <div class="text-small2 letter-spacing-1 tz-text" id="tz-slider-text249"> <p class="no-margin-bottom"> LOGO &amp; WEB </p> </div>
                                                     </figcaption>
                                                 </figure>
                                             </li>
@@ -57,11 +57,11 @@
                                             <li class="xs-no-padding">
                                                 <figure>
                                                     <div class="gallery-img lightbox-gallery">
-                                                        <a href="images/agency-work-11.jpg" title=""><img src="images/agency-work-11.jpg" id="tz-bg-112" data-img-size="(W)800px X (H)650px" alt=""></a>
+                                                        <a href="images\port\legal_luminaries.png" title=""><img src="images\port\legal_luminaries.png" id="tz-bg-112" data-img-size="(W)800px X (H)650px" alt=""></a>
                                                     </div>
                                                     <figcaption>
-                                                        <h3 class="text-medium alt-font"><a href="#" class="text-dark-gray tz-text" id="tz-slider-text250">THIRD EYE GLASSES</a></h3>
-                                                        <div class="text-small2 letter-spacing-1 tz-text" id="tz-slider-text251"> <p class="no-margin-bottom"> LOGO &amp; BROCHURE </p> </div>
+                                                        <h3 class="text-medium alt-font"><a href="#" class="text-dark-gray tz-text" id="tz-slider-text250">LEGAL LUMINARIES</a></h3>
+                                                        <div class="text-small2 letter-spacing-1 tz-text" id="tz-slider-text251"> <p class="no-margin-bottom"> LOGO &amp; WEB </p> </div>
                                                     </figcaption>
                                                 </figure>
                                             </li>
@@ -70,11 +70,11 @@
                                             <li class="xs-no-padding">
                                                 <figure>
                                                     <div class="gallery-img lightbox-gallery">
-                                                        <a href="images/agency-work-04.jpg" title=""><img src="images/agency-work-04.jpg" id="tz-bg-113" data-img-size="(W)800px X (H)650px" alt=""></a>
+                                                        <a href="images\port\ramveer_tanwar.png" title=""><img src="images\port\ramveer_tanwar.png" id="tz-bg-113" data-img-size="(W)800px X (H)650px" alt=""></a>
                                                     </div>
                                                     <figcaption>
-                                                        <h3 class="text-medium alt-font"><a href="#" class="text-dark-gray tz-text" id="tz-slider-text252">RUBBER STUDIO</a></h3>
-                                                        <div class="text-small2 letter-spacing-1 tz-text" id="tz-slider-text253"> <p class="no-margin-bottom"> BRANDING &amp; IDENTITY </p> </div>
+                                                        <h3 class="text-medium alt-font"><a href="#" class="text-dark-gray tz-text" id="tz-slider-text252">RAMVEER TANWAR</a></h3>
+                                                        <div class="text-small2 letter-spacing-1 tz-text" id="tz-slider-text253"> <p class="no-margin-bottom"> PERSONAL IDENTITY WEB </p> </div>
                                                     </figcaption>
                                                 </figure>
                                             </li>
@@ -83,11 +83,11 @@
                                             <li class="xs-no-padding">
                                                 <figure>
                                                     <div class="gallery-img lightbox-gallery">
-                                                        <a href="images/agency-work-05.jpg" title=""><img src="images/agency-work-05.jpg" id="tz-bg-114" data-img-size="(W)800px X (H)650px" alt=""></a>
+                                                        <a href="images\port\style_by_mink.png" title=""><img src="images\port\style_by_mink.png" id="tz-bg-114" data-img-size="(W)800px X (H)650px" alt=""></a>
                                                     </div>
                                                     <figcaption>
-                                                        <h3 class="text-medium alt-font"><a href="#" class="text-dark-gray tz-text" id="tz-slider-text254">REDDOT WEB MEDIA</a></h3>
-                                                        <div class="text-small2 letter-spacing-1 tz-text" id="tz-slider-text255"> <p class="no-margin-bottom"> LOGO &amp; BROCHURE </p> </div>
+                                                        <h3 class="text-medium alt-font"><a href="#" class="text-dark-gray tz-text" id="tz-slider-text254">STYLE BY MINK</a></h3>
+                                                        <div class="text-small2 letter-spacing-1 tz-text" id="tz-slider-text255"> <p class="no-margin-bottom">WEB DESIGN</p> </div>
                                                     </figcaption>
                                                 </figure>
                                             </li>
@@ -96,11 +96,11 @@
                                             <li class="xs-no-padding">
                                                 <figure>
                                                     <div class="gallery-img lightbox-gallery">
-                                                        <a href="images/agency-work-06.jpg" title=""><img src="images/agency-work-06.jpg" id="tz-bg-115" data-img-size="(W)800px X (H)650px" alt=""></a>
+                                                        <a href="images\port\the_beer_cafe-1.png" title=""><img src="images\port\the_beer_cafe-1.png" id="tz-bg-115" data-img-size="(W)800px X (H)650px" alt=""></a>
                                                     </div>
                                                     <figcaption>
-                                                        <h3 class="text-medium alt-font"><a href="#" class="text-dark-gray tz-text" id="tz-slider-text256">BLACK STUDIO INC</a></h3>
-                                                        <div class="text-small2 letter-spacing-1 tz-text" id="tz-slider-text257"> <p class="no-margin-bottom"> BRANDING &amp; IDENTITY </p> </div>
+                                                        <h3 class="text-medium alt-font"><a href="#" class="text-dark-gray tz-text" id="tz-slider-text256">THE BEER CAFE</a></h3>
+                                                        <div class="text-small2 letter-spacing-1 tz-text" id="tz-slider-text257"> <p class="no-margin-bottom"> BRANDING &amp; WEB </p> </div>
                                                     </figcaption>
                                                 </figure>
                                             </li>
@@ -109,11 +109,11 @@
                                             <li class="xs-no-padding">
                                                 <figure>
                                                     <div class="gallery-img lightbox-gallery">
-                                                        <a href="images/agency-work-07.jpg" title=""><img src="images/agency-work-07.jpg" id="tz-bg-116" data-img-size="(W)800px X (H)650px" alt=""></a>
+                                                        <a href="images\port\uniproject_free.png" title=""><img src="images\port\uniproject_free.png" id="tz-bg-116" data-img-size="(W)800px X (H)650px" alt=""></a>
                                                     </div>
                                                     <figcaption>
-                                                        <h3 class="text-medium alt-font"><a href="#" class="text-dark-gray tz-text" id="tz-slider-text258">DESIGN CRAFTMEN</a></h3>
-                                                        <div class="text-small2 letter-spacing-1 tz-text" id="tz-slider-text259"> <p class="no-margin-bottom"> WEB &amp; BRANDING </p> </div>
+                                                        <h3 class="text-medium alt-font"><a href="#" class="text-dark-gray tz-text" id="tz-slider-text258">UNIPROJECT FREE</a></h3>
+                                                        <div class="text-small2 letter-spacing-1 tz-text" id="tz-slider-text259"> <p class="no-margin-bottom"> LOGO &amp; WEBSITE </p> </div>
                                                     </figcaption>
                                                 </figure>
                                             </li>
@@ -122,14 +122,26 @@
                                             <li class="xs-no-padding">
                                                 <figure>
                                                     <div class="gallery-img lightbox-gallery">
-                                                        <a href="images/agency-work-08.jpg" title=""><img src="images/agency-work-08.jpg" id="tz-bg-117" data-img-size="(W)800px X (H)650px" alt=""></a>
+                                                        <a href="images\port\ecological_concepts.png" title=""><img src="images\port\ecological_concepts.png" id="tz-bg-117" data-img-size="(W)800px X (H)650px" alt=""></a>
                                                     </div>
                                                     <figcaption>
-                                                        <h3 class="text-medium alt-font"><a href="#" class="text-dark-gray tz-text" id="tz-slider-text260">BLACKY FASHION</a></h3>
-                                                        <div class="text-small2 letter-spacing-1 tz-text" id="tz-slider-text261"> <p class="no-margin-bottom"> LOGO &amp; BRANDING </p> </div>
+                                                        <h3 class="text-medium alt-font"><a href="#" class="text-dark-gray tz-text" id="tz-slider-text260">ECOLOGICAL CONCEPTS</a></h3>
+                                                        <div class="text-small2 letter-spacing-1 tz-text" id="tz-slider-text261"> <p class="no-margin-bottom"> LOGO &amp; WEBSITE </p> </div>
                                                     </figcaption>
                                                 </figure>
                                             </li>
+                                            <li class="xs-no-padding">
+                                                <figure>
+                                                    <div class="gallery-img lightbox-gallery">
+                                                        <a href="images\port\the_beer_cafe.png" title=""><img src="images\port\the_beer_cafe.png" id="tz-bg-117" data-img-size="(W)800px X (H)650px" alt=""></a>
+                                                    </div>
+                                                    <figcaption>
+                                                        <h3 class="text-medium alt-font"><a href="#" class="text-dark-gray tz-text" id="tz-slider-text260">THE BEER CAFE</a></h3>
+                                                        <div class="text-small2 letter-spacing-1 tz-text" id="tz-slider-text261"> <p class="no-margin-bottom"> BRANDING &amp; WEBSITE </p> </div>
+                                                    </figcaption>
+                                                </figure>
+                                            </li>
+                                          
                                             <!-- end portfolio item -->
                                         </ul>
                                     </div>

@@ -28,7 +28,7 @@
                                     <a href="#"><img alt="" src="images/services_ui.svg" data-img-size="(W)800px X (H)533px"> </a>
                                 </div>
                                 <div class="feature-box-details float-left width-100" style= "padding: 0px 12px 0px;">
-                                    <a href="#" class="serivsecix">UI/UX Designe</a>
+                                    <a href="#" class="serivsecix">UI/UX Design</a>
                                     <div class="text-medium line-height-24 float-left width-100 tz-text"><p class="grap">At Softles we see UX as a global term that describe user’s feelings and comfort while interacting with an application. UI is the part of UX that help users to interact with a product and makes a first impression. It’s important to remember that designing a good-looking app is not enough to guarantee high conversion rates and low bounce rates; UX addresses these concerns, as well as other factors that influence user loyalty </p></div>
                                     
                                 </div>
@@ -68,7 +68,7 @@
                         <div class="col-md-6 col-sm-6 col-xs-12 xs-margin-twenty-three-bottom xs-text-center">
                             <div class="feature-box float-left width-100">
                                 <div class="feature-box-image margin-eleven-bottom">
-                                    <a href="#"><img alt="" src="images/Digital Marketing & SEO.svg" data-img-size="(W)800px X (H)533px"> </a>
+                                    <a href="#"><img alt="" src="images/digital_marketing.svg" data-img-size="(W)800px X (H)533px"> </a>
                                 </div>
                                 <div class="feature-box-details float-left width-100" style= "padding: 0px 12px 0px;">
                                     <a href="#" class="serivsecix">Digital Marketing & SEO</a>
