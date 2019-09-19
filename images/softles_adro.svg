@@ -15,36 +15,32 @@
    sodipodi:docname="softles_adro.svg"
    version="1.1"
    id="svg8668"
-   inkscape:version="0.92.4 (f8dce91, 2019-08-02)">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <defs
-     id="defs8670"><clipPath
-   clipPathUnits="userSpaceOnUse"
-   id="clipPath82912">
-  <rect
-     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.01142476"
-     id="rect82914"
-     width="77.082336"
-     height="74.088921"
-     x="-153.54523"
-     y="104.90038" />
-</clipPath>
-<clipPath
-   clipPathUnits="userSpaceOnUse"
-   id="clipPath82959">
-  <rect
-     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.01235364"
-     id="rect82961"
-     width="180.35434"
-     height="83.816612"
-     x="-267.29468"
-     y="51.767662" />
-</clipPath>
-
-	
-	
-	
-	
-</defs>
+     id="defs8670">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath82912">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.01142476"
+         id="rect82914"
+         width="77.082336"
+         height="74.088921"
+         x="-153.54523"
+         y="104.90038" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath82959">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.01235364"
+         id="rect82961"
+         width="180.35434"
+         height="83.816612"
+         x="-267.29468"
+         y="51.767662" />
+    </clipPath>
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -52,7 +48,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="350.82327"
+     inkscape:cx="-38.17673"
      inkscape:cy="203.53898"
      inkscape:document-units="mm"
      inkscape:current-layer="Template"
@@ -63,10 +59,10 @@
      inkscape:snap-global="false"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="751"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
@@ -103,7 +99,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -112,21 +108,18 @@
      inkscape:groupmode="layer"
      id="Template"
      style="fill:none;stroke:black;stroke-width:0.05">
-    <g
-       id="g12733">
-      <circle
-         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.23803666"
-         cx="0.7701785"
-         cy="1.1303912"
-         r="58.318985"
-         id="circle12159" />
-      <circle
-         id="circle9280"
-         r="58.318985"
-         cy="-1.4246966"
-         cx="0.7701785"
-         style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.23803666" />
-    </g>
+    <circle
+       id="circle12159"
+       r="58.318985"
+       cy="1.1303912"
+       cx="0.7701785"
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.23803666" />
+    <circle
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.23803666"
+       cx="0.7701785"
+       cy="-1.4246966"
+       r="58.318985"
+       id="circle9280" />
     <g
        id="g12314"
        transform="matrix(0.16953322,0,0,0.16953322,-42.641854,-43.55911)" />
@@ -372,137 +365,122 @@
        transform="translate(-20.766842,4.6772167)" />
     <g
        id="g83152"
-       transform="matrix(0.15503999,0,0,0.15503999,-36.454821,-43.983988)">
-</g>
+       transform="matrix(0.15503999,0,0,0.15503999,-36.454821,-43.983988)" />
     <g
        id="g83154"
-       transform="matrix(0.15503999,0,0,0.15503999,-36.454821,-43.983988)">
-</g>
+       transform="matrix(0.15503999,0,0,0.15503999,-36.454821,-43.983988)" />
     <g
        id="g83156"
-       transform="matrix(0.15503999,0,0,0.15503999,-36.454821,-43.983988)">
-</g>
+       transform="matrix(0.15503999,0,0,0.15503999,-36.454821,-43.983988)" />
     <g
        id="g83158"
-       transform="matrix(0.15503999,0,0,0.15503999,-36.454821,-43.983988)">
-</g>
+       transform="matrix(0.15503999,0,0,0.15503999,-36.454821,-43.983988)" />
     <g
        id="g83160"
-       transform="matrix(0.15503999,0,0,0.15503999,-36.454821,-43.983988)">
-</g>
+       transform="matrix(0.15503999,0,0,0.15503999,-36.454821,-43.983988)" />
     <g
        id="g83162"
-       transform="matrix(0.15503999,0,0,0.15503999,-36.454821,-43.983988)">
-</g>
+       transform="matrix(0.15503999,0,0,0.15503999,-36.454821,-43.983988)" />
     <g
        id="g83164"
-       transform="matrix(0.15503999,0,0,0.15503999,-36.454821,-43.983988)">
-</g>
+       transform="matrix(0.15503999,0,0,0.15503999,-36.454821,-43.983988)" />
     <g
        id="g83166"
-       transform="matrix(0.15503999,0,0,0.15503999,-36.454821,-43.983988)">
-</g>
+       transform="matrix(0.15503999,0,0,0.15503999,-36.454821,-43.983988)" />
     <g
        id="g83168"
-       transform="matrix(0.15503999,0,0,0.15503999,-36.454821,-43.983988)">
-</g>
+       transform="matrix(0.15503999,0,0,0.15503999,-36.454821,-43.983988)" />
     <g
        id="g83170"
-       transform="matrix(0.15503999,0,0,0.15503999,-36.454821,-43.983988)">
-</g>
+       transform="matrix(0.15503999,0,0,0.15503999,-36.454821,-43.983988)" />
     <g
        id="g83172"
-       transform="matrix(0.15503999,0,0,0.15503999,-36.454821,-43.983988)">
-</g>
+       transform="matrix(0.15503999,0,0,0.15503999,-36.454821,-43.983988)" />
     <g
        id="g83174"
-       transform="matrix(0.15503999,0,0,0.15503999,-36.454821,-43.983988)">
-</g>
+       transform="matrix(0.15503999,0,0,0.15503999,-36.454821,-43.983988)" />
     <g
        id="g83176"
-       transform="matrix(0.15503999,0,0,0.15503999,-36.454821,-43.983988)">
-</g>
+       transform="matrix(0.15503999,0,0,0.15503999,-36.454821,-43.983988)" />
     <g
        id="g83178"
-       transform="matrix(0.15503999,0,0,0.15503999,-36.454821,-43.983988)">
-</g>
+       transform="matrix(0.15503999,0,0,0.15503999,-36.454821,-43.983988)" />
     <g
        id="g83180"
-       transform="matrix(0.15503999,0,0,0.15503999,-36.454821,-43.983988)">
-</g>
+       transform="matrix(0.15503999,0,0,0.15503999,-36.454821,-43.983988)" />
     <g
        id="g12111"
        transform="matrix(0.20326998,0,0,0.20326998,-41.218996,-42.136313)"
-       style="fill:#008000;stroke:#000000;stroke-width:0.05">
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.05">
       <g
          id="g12052"
-         style="fill:#008000">
+         style="fill:#ffffff">
         <path
            id="path12044"
            d="M 311.358,136.395 H 101.779 c -4.662,0 -8.441,3.779 -8.441,8.441 v 175.749 c 0,4.662 3.779,8.441 8.441,8.441 h 37.363 v 59.228 c 0,13.742 11.14,24.883 24.883,24.883 v 0 c 13.742,0 24.883,-11.14 24.883,-24.883 v -59.228 h 34.803 v 59.228 c 0,13.742 11.14,24.883 24.883,24.883 v 0 c 13.742,0 24.883,-11.14 24.883,-24.883 v -59.228 h 37.882 c 4.662,0 8.441,-3.779 8.441,-8.441 V 144.836 c -0.001,-4.662 -3.78,-8.441 -8.442,-8.441 z"
-           style="fill:#008000"
+           style="fill:#ffffff"
            inkscape:connector-curvature="0" />
         <path
            id="path12046"
            d="m 57.856,136.354 v 0 c -13.742,0 -24.883,11.14 -24.883,24.883 v 101.065 c 0,13.742 11.14,24.883 24.883,24.883 v 0 c 13.742,0 24.883,-11.14 24.883,-24.883 V 161.237 C 82.738,147.495 71.598,136.354 57.856,136.354 Z"
-           style="fill:#008000"
+           style="fill:#ffffff"
            inkscape:connector-curvature="0" />
         <path
            id="path12048"
            d="m 355.281,136.354 v 0 c -13.742,0 -24.883,11.14 -24.883,24.883 v 101.065 c 0,13.742 11.14,24.883 24.883,24.883 v 0 c 13.742,0 24.883,-11.14 24.883,-24.883 V 161.237 c 0,-13.742 -11.14,-24.883 -24.883,-24.883 z"
-           style="fill:#008000"
+           style="fill:#ffffff"
            inkscape:connector-curvature="0" />
         <path
            id="path12050"
            d="m 103.475,124.069 h 205.692 c 5.366,0 9.368,-4.943 8.266,-10.195 -6.804,-32.428 -27.45,-59.756 -55.465,-75.543 L 279.552,6.604 c 1.19,-2.148 0.414,-4.855 -1.734,-6.045 -2.153,-1.193 -4.856,-0.414 -6.046,1.734 l -17.717,31.966 c -14.511,-6.734 -30.683,-10.495 -47.734,-10.495 -17.052,0 -33.224,3.761 -47.735,10.495 L 140.869,2.292 c -1.191,-2.149 -3.898,-2.924 -6.045,-1.734 -2.148,1.19 -2.924,3.897 -1.734,6.045 l 17.584,31.727 c -28.015,15.788 -48.661,43.115 -55.465,75.544 -1.103,5.252 2.899,10.195 8.266,10.195 z M 267.697,76.786 c 0,5.282 -4.282,9.565 -9.565,9.565 -5.282,0 -9.565,-4.282 -9.565,-9.565 0,-5.282 4.282,-9.565 9.565,-9.565 5.283,0 9.565,4.283 9.565,9.565 z M 154.508,67.221 c 5.282,0 9.565,4.282 9.565,9.565 0,5.282 -4.282,9.565 -9.565,9.565 -5.282,0 -9.565,-4.282 -9.565,-9.565 0,-5.282 4.282,-9.565 9.565,-9.565 z"
-           style="fill:#008000"
+           style="fill:#ffffff"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="g12054"
-         style="fill:#008000" />
+         style="fill:#ffffff" />
       <g
          id="g12056"
-         style="fill:#008000" />
+         style="fill:#ffffff" />
       <g
          id="g12058"
-         style="fill:#008000" />
+         style="fill:#ffffff" />
       <g
          id="g12060"
-         style="fill:#008000" />
+         style="fill:#ffffff" />
       <g
          id="g12062"
-         style="fill:#008000" />
+         style="fill:#ffffff" />
       <g
          id="g12064"
-         style="fill:#008000" />
+         style="fill:#ffffff" />
       <g
          id="g12066"
-         style="fill:#008000" />
+         style="fill:#ffffff" />
       <g
          id="g12068"
-         style="fill:#008000" />
+         style="fill:#ffffff" />
       <g
          id="g12070"
-         style="fill:#008000" />
+         style="fill:#ffffff" />
       <g
          id="g12072"
-         style="fill:#008000" />
+         style="fill:#ffffff" />
       <g
          id="g12074"
-         style="fill:#008000" />
+         style="fill:#ffffff" />
       <g
          id="g12076"
-         style="fill:#008000" />
+         style="fill:#ffffff" />
       <g
          id="g12078"
-         style="fill:#008000" />
+         style="fill:#ffffff" />
       <g
          id="g12080"
-         style="fill:#008000" />
+         style="fill:#ffffff" />
       <g
          id="g12082"
-         style="fill:#008000" />
+         style="fill:#ffffff" />
     </g>
   </g>
 </svg>

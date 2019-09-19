@@ -2,7 +2,7 @@
 
 
 <section class=""">
-    <div class="container one-third-screen xs-height-auto position-relative">
+    <div class="container xs-height-auto position-relative">
         <div class="row">
             <div class="slider-typography xs-position-static text-center">
                 <div class="slider-text-middle-main">
@@ -10,7 +10,7 @@
                         <!-- slider text -->
                         <div class="col-md-7 col-sm-6 col-xs-12 xs-margin-thirteen-bottom display-table xs-text-center">
                             <div class="display-table-cell-vertical-middle">
-                                <h1 class="title-extra-large-3 sm-title-extra-large xs-title-extra-large alt-font margin-seven-bottom tz-text width-90 font-weight-400 sm-width-100">We Create What You Desire</h1>
+                                <h2 class="title-extra-large-3 sm-title-extra-large xs-title-extra-large alt-font margin-seven-bottom tz-text width-90 font-weight-400 sm-width-100">We Create What You Desire</h2>
                                 <div class=" text-extra-large xs-text-extra-large width-90 xs-width-100 margin-ten-bottom tz-text">
                                     <p>Our main objective is to Design and Develop beautiful websites based on the Client’s demands, which helps them succeed in their business objectives.We have more than four years of experience in website designing and development of web applications.</p>
                                 </div>
@@ -30,8 +30,9 @@
                                         <option>Select Service</option>
                                         <option>Web Design</option>
                                         <option>Web Development</option>
+                                        <option>Business Consulting</option>
                                         <option>UI/UX Design</option>
-                                        <option>Logo Design</option>
+                                        <option>Graphic Design</option>
                                     </select>
                                     <textarea name="comment" id="comment" placeholder="Your Message" class="medium-input alt-font border-radius-4"></textarea>
                                     <button type="submit" class="tz_submit btn btn-medium propClone xs-width-100 bg-black text-white builder-bg tz-text">Request A Free Quote</button>
@@ -76,7 +77,7 @@
         </div>
     </div>
 </section>
-<section class="padding-110px-tb bg-dark-blue builder-bg border-none xs-padding-60px-tb" id="feature-section12" style="background:linear-gradient(rgba(0,0,0,0.100), rgba(0,0,0,0.100)), url('images/source.gif');background-size: cover;">
+<section class="padding-110px-tb builder-bg border-none xs-padding-60px-tb" id="feature-section12" style="background:linear-gradient(rgba(0,0,0,0.100), rgba(0,0,0,0.100)),">
     <div class="container">
         <h2 class="feature">Technology We Use
         </h2>
@@ -215,14 +216,14 @@
 
 
 
-<section id="testimonials-section3" class="builder-bg testimonial-style1 bg-dark-blue padding-110px-tb xs-padding-top-60px border-none" style="background:linear-gradient(rgba(0,0,0,0.100), rgba(0,0,0,0.100)), url('images/pop.jpg');background-size: cover;">
+<section id="testimonials-section3" class="builder-bg testimonial-style1 padding-110px-tb xs-padding-top-60px border-none">
     <div class="container">
         <h2 class="feature">What People Say ?</h2>
         <div class="row">
             <div class="testimonial-style3 owl-carousel owl-theme light-pagination owl-pagination-bottom">
                 <!-- testimonial item -->
-                <div class="item">
-                    <div class="col-md-12 col-sm-12 col-xs-12 xs-no-padding-15 text-center xs-margin-twenty-bottom">
+                <div class="item cardwrap">
+                    <div class="col-md-12 col-sm-12 col-xs-12 xs-no-padding-15 text-center xs-margin-twenty-bottom cardwrapinner">
                         <div class="margin-ten-bottomm"><img class="img-round-100" src="images/ecpl.png" data-img-size="(W)149px X (H)149px" id="tz-bg-56" alt=""></div>
                         <div class="text-medium text-black margin-six-bottom tz-text width-95 sm-width-100 center-col" id="tz-slider-text84">Good Quality of Website Design service at affordable cost. Team is very helpful and always ready to help on website part they have done my 40+ correction free of cost. Thanks Softles Team for helping me on my website launching.</div>
                         <div class="clintsay tz-text" id="tz-slider-text85">Mahesh Uppal | <samp class="clintsayy">Ecological Concepts</samp> </div>
@@ -230,8 +231,8 @@
                 </div>
                 <!-- end testimonial item -->
                 <!-- testimonial item -->
-                <div class="item">
-                    <div class="col-md-12 col-sm-12 col-xs-12 xs-no-padding-15 text-center xs-margin-twenty-bottom">
+                <div class="item cardwrap">
+                    <div class="col-md-12 col-sm-12 col-xs-12 xs-no-padding-15 text-center xs-margin-twenty-bottom cardwrapinner">
                         <div class="margin-ten-bottomm"><img class="img-round-100" src="images/hotel.png" data-img-size="(W)149px X (H)149px" id="tz-bg-56" alt=""></div>
                         <div class="text-medium text-black margin-six-bottom tz-text width-95 sm-width-100 center-col" id="tz-slider-text84">Awesome website design and conceptualisation, integrated my website with my crm as well. Delivered in time.We could not have picked a better team of professionals to represent us. Thank you so much.!! <br></div>
                         <div class="clintsay tz-text" id="tz-slider-text85">Monti Mohtey | <samp class="clintsayy">Hotel Swimming Puri</samp> </div>
@@ -239,8 +240,8 @@
                 </div>
                 <!-- end testimonial item -->
                 <!-- testimonial item -->
-                <div class="item">
-                    <div class="col-md-12 col-sm-12 col-xs-12 xs-no-padding-15 text-center xs-margin-twenty-bottom">
+                <div class="item cardwrap">
+                    <div class="col-md-12 col-sm-12 col-xs-12 xs-no-padding-15 text-center xs-margin-twenty-bottom cardwrapinner">
                         <div class="margin-ten-bottomm "><img class="img-round-100" src="images/legal.png" data-img-size="(W)149px X (H)149px" id="tz-bg-56" alt=""></div>
                         <div class="text-medium text-black margin-six-bottom tz-text width-95 sm-width-100 center-col" id="tz-slider-text84">Thanks to SOFTLES team for their support and finding me a right choice of domain and website.<br>Nice staff , good technical skills. Excellent support. Kudos to team for all the efforts they are doing. <br></div>
                         <div class="clintsay tz-text" id="tz-slider-text85">Ad. Anurag Yadav | <samp class="clintsayy">Legal Luminaries</samp> </div>
@@ -248,8 +249,8 @@
                 </div>
                 <!-- end testimonial item -->
                 <!-- testimonial item -->
-                <div class="item">
-                    <div class="col-md-12 col-sm-12 col-xs-12 xs-no-padding-15 text-center xs-margin-twenty-bottom">
+                <div class="item cardwrap">
+                    <div class="col-md-12 col-sm-12 col-xs-12 xs-no-padding-15 text-center xs-margin-twenty-bottom cardwrapinner">
                         <div class="margin-ten-bottomm"><img class="img-round-100" src="images/prithvi_found.png" data-img-size="(W)149px X (H)149px" id="tz-bg-56" alt=""></div>
                         <div class="text-medium text-black margin-six-bottom tz-text width-95 sm-width-100 center-col" id="tz-slider-text84">Good Quality of Website Design service at affordable cost. Team is very helpful and always ready to help on website part they have done my 40+ correction free of cost. Thanks Softles Team for helping me on my website launching.</div>
                         <div class="clintsay tz-text" id="tz-slider-text85">Sarvdaman Singh| <samp class="clintsayy">The Prithvi Foundation </samp> </div>
@@ -257,15 +258,15 @@
                 </div>
                 <!-- end testimonial item -->
                 <!-- testimonial item -->
-                <div class="item">
-                    <div class="col-md-12 col-sm-12 col-xs-12 xs-no-padding-15 text-center xs-margin-twenty-bottom">
+                <div class="item cardwrap">
+                    <div class="col-md-12 col-sm-12 col-xs-12 xs-no-padding-15 text-center xs-margin-twenty-bottom cardwrapinner">
                         <div class="margin-ten-bottomm"><img class="img-round-100" src="images/LAO.png" data-img-size="(W)149px X (H)149px" id="tz-bg-56" alt=""></div>
                         <div class="text-medium text-black margin-six-bottom tz-text width-95 sm-width-100 center-col" id="tz-slider-text84">Extremely satisfy with our new corporate website & digital marketing work. Thanks for the great work, I'm very happy with the result. During the work process, they were very flexible and willing to try out various things according to my suggestions.</div>
                         <div class="clintsay tz-text" id="tz-slider-text85">Nitin N Nagar | <samp class="clintsayy">Life An Oppourtunity</samp> </div>
                     </div>
                 </div>
-                <div class="item">
-                    <div class="col-md-12 col-sm-12 col-xs-12 xs-no-padding-15 text-center xs-margin-twenty-bottom">
+                <div class="item cardwrap">
+                    <div class="col-md-12 col-sm-12 col-xs-12 xs-no-padding-15 text-center xs-margin-twenty-bottom cardwrapinner">
                         <div class="margin-ten-bottomm"><img class="img-round-100" src="images/style_by_mink.png" data-img-size="(W)149px X (H)149px" id="tz-bg-56" alt=""></div>
                         <div class="text-medium text-black margin-six-bottom tz-text width-95 sm-width-100 center-col" id="tz-slider-text84">Prompt service and on-time delivery, it was a pleasure working with you guys!
 </div>

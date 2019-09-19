@@ -1,3 +1,82 @@
+.navbar {
+    background-color: #FF5438;
+}
+
+
+section#feature-section32 {
+    background-color: aliceblue;
+}
+
+.bord.tz-border.padding-twenty {
+    background-color: #fff;
+    box-shadow: 0 1px 7px 0 rgba(0,0,0,.09);
+    border-radius: 6px;
+}
+
+section#counter-section2 {
+    background-color: #F0F8FF;
+}
+
+.cardwrapinner {
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 1px 7px 0 rgba(0,0,0,.09);
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+samp.clintsayy {
+    color: black;
+}
+
+h2.feature {
+    color: #300A44;
+}
+
+.footerbg {
+    background-color: #F0F8FF;
+    color: black;
+}
+
+.footerbtndiv {
+    text-align: center;
+    padding: 20px;
+}
+
+.owl-item {
+    padding: 10px;
+}
+
+.footerquote {
+    display: inline-block;
+    padding: 16px 24px;
+    border-radius: 24px;
+    transition: all .3s ease-in-out;
+    cursor: pointer;
+    font-size: 1.6875rem;
+    line-height: 1.33273;
+    box-shadow: 0 2px 7px rgba(0,0,0,.1);
+    text-decoration: none!important;
+    color: #fff;
+    background-color: #300a44;
+}
+
+.brand_footer {
+    font-size: 30px!important;
+    color: #300A44 !important;
+    font-family:'Raleway', sans-serif!important;
+    text-align: center;
+    font-weight: bold;
+}
+
+.brandtag_footer{
+    font-size: 20px!important;
+    color:  #300A44 !important;
+    font-family: 'Raleway', sans-serif !important;
+    margin-top: 5px;
+}
+
+
 *{
     font-family:'Raleway', sans-serif!important;
    
@@ -408,7 +487,7 @@ h6 { font-size:18px; line-height:23px}
 ====================================== */
 
 .bg-white{ background: #fff;}
-.bg-black{ background: #000000; }
+.bg-black{ background: #333333; }
 .bg-gray { background-color: #f6f6f6;}
 .bg-brown{ background-color: #efe6da;}
 .bg-light-gray { background: #f7f7f7;}

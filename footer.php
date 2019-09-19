@@ -1,31 +1,36 @@
-<footer id="footer-section13" class="bg-black padding-6px-tb xs-padding-6px-tb builder-bg">
+<footer id="footer-section13" class="footerbg padding-6px-tb xs-padding-6px-tb builder-bg">
                 <div class="container">
                     <div class="row">
                         <!-- logo -->
                         <div class="col-md-3 col-sm-12 col-xs-12 sm-text-center sm-margin-five-bottom">
-                                <a href="#home"><div class="brand">SOFTLES<br><div class="brandtag">"Less soft , more real"</div></div></a>
+                                <a href="#home"><div class="brand_footer">SOFTLES<br><div class="brandtag_footer">"Less soft , more real"</div></div></a>
+                         <div class="footerbtndiv">
+                         <a href="Contact Us.php"><button class="footerquote">Get A Free Quote</button></a>
+                         </div>
+                                
+                              
                         </div>
                         <!-- end logo -->
                         <!-- caption -->
                         <div class="col-md-6 col-sm-12 col-xs-12 text-center">
-                            <div class="tz-text text-white text-medium sm-margin-two-bottom"><p>+919540494104</p></div>
-                            <div class="tz-text text-white text-medium sm-margin-two-bottom"><p>info@softles.com</p></div>
-                            <div class="tz-text text-white text-medium sm-margin-two-bottom"><p>1303,Sector 23A,Gurugram</p></div>
+                            <div class="tz-text text-medium sm-margin-two-bottom"><p>+919540494104</p></div>
+                            <div class="tz-text text-medium sm-margin-two-bottom"><p>info@softles.com</p></div>
+                            <div class="tz-text text-medium sm-margin-two-bottom"><p>1303,Sector 23A,Gurugram</p></div>
                         </div>
                         <!-- end caption -->
                         <!-- social elements -->
                         <div class="col-md-3 col-sm-12 col-xs-12 text-right sm-text-center social-icon">
                             <a href="https://www.facebook.com/softlesweb/" target="blnk">
-                                <i class=" text-white tz-icon-color" aria-hidden="true"> <img class="icons" src="images/facebook .svg" alt=""></i>
+                                <i class="tz-icon-color" aria-hidden="true"> <img class="icons" src="images/facebook .svg" alt=""></i>
                             </a>
                             <a href="https://www.instagram.com/softlesdesign/"target="blnk">
-                                <i class=" text-white tz-icon-color" aria-hidden="true"><img class="icons" src="images/instagram.svg" alt=""></i>
+                                <i class=" tz-icon-color" aria-hidden="true"><img class="icons" src="images/instagram.svg" alt=""></i>
                             </a>
                             <a href="https://twitter.com/Softlesindia"target="blnk">
-                                <i class=" text-white tz-icon-color" aria-hidden="true"><img class="icons" src="images/twitter.svg" alt=""></i>
+                                <i class=" tz-icon-color" aria-hidden="true"><img class="icons" src="images/twitter.svg" alt=""></i>
                             </a>
                             <a href="#">
-                                <i class=" text-white tz-icon-color" aria-hidden="true"><img class="icons" src="images/facebook.svg" alt=""></i>
+                                <i class=" tz-icon-color" aria-hidden="true"><img class="icons" src="images/facebook.svg" alt=""></i>
                             </a>
                         </div>
                        
