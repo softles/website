@@ -10,7 +10,7 @@
                         <!-- slider text -->
                         <div class="col-md-7 col-sm-6 col-xs-12 xs-margin-thirteen-bottom display-table xs-text-center">
                             <div class="display-table-cell-vertical-middle">
-                                <h2 class="title-extra-large-3 sm-title-extra-large xs-title-extra-large alt-font margin-seven-bottom tz-text width-90 font-weight-400 sm-width-100">We Create What You Desire</h2>
+                                <h1 class="title-extra-large-3 sm-title-extra-large xs-title-extra-large alt-font margin-seven-bottom tz-text width-90 font-weight-400 sm-width-100">We Create What You Desire</h1>
                                 <div class=" text-extra-large xs-text-extra-large width-90 xs-width-100 margin-ten-bottom tz-text">
                                     <p>Our main objective is to Design and Develop beautiful websites based on the Client’s demands, which helps them succeed in their business objectives.We have more than four years of experience in website designing and development of web applications.</p>
                                 </div>
